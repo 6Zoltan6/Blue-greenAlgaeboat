@@ -10,6 +10,9 @@ import index from './components/index.vue';
     
   </HelloWorld>
  
+  <index>
+
+  </index>
 </template>
 
 <style scoped></style>

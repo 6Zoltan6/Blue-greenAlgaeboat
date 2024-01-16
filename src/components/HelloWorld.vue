@@ -40,6 +40,51 @@
       <!-- 换成自己的地址 -->
       <source src="../../public/Red Dead Redemption 2 2023-12-28 13-21-08.mp4" type="video/mp4">
     </video>
+  </div>
+</template>
+
+<template>
+  <!-- 总盒子 -->
+  <div class="box1">
+    <!-- 包含左右两部分，与底部分割 -->
+    <div class="box2">
+      <!-- 左半部分，切换界面 -->
+      <div class="left">
+        <div class="left-item">
+          <!-- 实际内容 -->
+        </div>
+        <div class="left-item">
+
+        </div>
+        <div class="left-item">
+
+        </div>
+        <div class="left-item">
+
+        </div>
+      </div>
+      <!-- 右半部分 -->
+      <div class="right">
+        <div class="right-item">
+          <!-- 实际内容 -->
+        </div>
+        <div class="right-item">
+
+        </div>
+      </div>
+    </div>
+    <!-- 底部 -->
+    <div class="bottom">
+      <div class="bottom-item time">
+      </div>
+      <div class="bottom-item">
+      </div>
+    </div>
+    <!-- 视频 -->
+    <video class="video" autoplay loop muted>
+      <!-- 换成自己的地址 -->
+      <source src="../../public/Red Dead Redemption 2 2023-12-28 13-21-08.mp4" type="video/mp4">
+    </video>
  
   </div>
 </template>
